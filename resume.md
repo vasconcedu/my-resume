@@ -33,7 +33,7 @@
 | Level        | Application Security | Complementary |
 |--------------|----------------------|---------------|
 | Advanced     | <ul style="list-style-type: none; padding: 0; margin: 0;"><li>Threat Modeling</li><li>Security Engineering</li><li>Penetration Testing</li><li>Vulnerability Assessment</li><li>Security Code Review</li></ul> |<ul style="list-style-type: none; padding: 0; margin: 0;"><li>Research & Development</li></ul> |
-| Intermediate | <ul style="list-style-type: none; padding: 0; margin: 0;"><li>Security Awareness</li><li>Reverse Engineering</li></ul> | <ul style="list-style-type: none; padding: 0; margin: 0;"><li>Full Stack Development</li></ul> |
+| Intermediate | <ul style="list-style-type: none; padding: 0; margin: 0;"><li>Security Awareness</li><li>Reverse Engineering</li><li>Cryptography</li></ul> | <ul style="list-style-type: none; padding: 0; margin: 0;"><li>Full Stack Development</li></ul> |
 | Familiar     | <ul style="list-style-type: none; padding: 0; margin: 0;"><li>DevSecOps</li><li>Incident Response</li></ul> | <ul style="list-style-type: none; padding: 0; margin: 0;"><li>Machine Learning</li></ul> |
 
 ## Tech Stack
