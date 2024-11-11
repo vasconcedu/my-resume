@@ -12,7 +12,7 @@
     <a href="https://www.linkedin.com/in/vasconcedu/">
         <button style="background-image: linear-gradient(rgb(18, 31, 40), rgb(36, 61, 80)); color: white; border-radius: 16px;"><small>LinkedIn</small></button>
     </a>
-    <a href="https://vasconcedu.github.io/#/">
+    <a href="https://eduardovasconcelos.com/#/">
         <button style="background-image: linear-gradient(rgb(18, 31, 40), rgb(36, 61, 80)); color: white; border-radius: 16px;"><small>Website</small></button>
     </a>
     <!-- <a href="#">
