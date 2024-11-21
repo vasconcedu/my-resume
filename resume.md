@@ -119,4 +119,4 @@
 - **Professional Training in Computer Hardware and Network Maintenance** @ Microlins, Brazil<br>
     Mar 2007 &mdash; Sep 2007 
 
-    - Six-month professional training program in computer hardware, operating systems and computer networks.
+    - Six-month professional training program in computer hardware, operating systems, and computer networks.
