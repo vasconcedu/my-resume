@@ -6,18 +6,18 @@
         <img src="spf.png" height="72">
         <img src="ehf.png" height="72">
     </p>
-    <a href="https://github.com/vasconcedu">
-        <button style="background-image: linear-gradient(rgb(18, 31, 40), rgb(36, 61, 80)); color: white; border-radius: 16px;"><small>GitHub</small></button>
-    </a>
-    <a href="https://www.linkedin.com/in/vasconcedu/">
-        <button style="background-image: linear-gradient(rgb(18, 31, 40), rgb(36, 61, 80)); color: white; border-radius: 16px;"><small>LinkedIn</small></button>
-    </a>
-    <a href="https://eduardovasconcelos.com/#/">
-        <button style="background-image: linear-gradient(rgb(18, 31, 40), rgb(36, 61, 80)); color: white; border-radius: 16px;"><small>Website</small></button>
-    </a>
-    <a href="mailto:eduardo@eduardovasconcelos.com">
-        <button style="background-image: linear-gradient(rgb(18, 31, 40), rgb(36, 61, 80)); color: white; border-radius: 16px;"><small>E-mail</small></button>
-    </a>
+    <p><a href="mailto:eduardo@eduardovasconcelos.com">eduardo@eduardovasconcelos.com</a></p>
+    <p>
+        <a href="https://github.com/vasconcedu">
+            <button style="background-image: linear-gradient(rgb(18, 31, 40), rgb(36, 61, 80)); color: white; border-radius: 16px;"><small>GitHub</small></button>
+        </a>
+        <a href="https://www.linkedin.com/in/vasconcedu/">
+            <button style="background-image: linear-gradient(rgb(18, 31, 40), rgb(36, 61, 80)); color: white; border-radius: 16px;"><small>LinkedIn</small></button>
+        </a>
+        <a href="https://eduardovasconcelos.com/#/">
+            <button style="background-image: linear-gradient(rgb(18, 31, 40), rgb(36, 61, 80)); color: white; border-radius: 16px;"><small>Website</small></button>
+        </a>
+    </p>
 </div>
 
 ## Key Highlights
