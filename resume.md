@@ -22,7 +22,7 @@
 
 ## Key Highlights
 
-- 7+ years of experience in the software industry with emphasis on Application Security;
+- 8+ years of experience in the software industry with emphasis on Application Security;
 - Software Engineering postgraduate researcher awarded for national-level excellence in 2024;
 - Computer Engineering graduate awarded for university-level excellence in 2016;
 - Creative and fast learner with a proven ability to leverage and apply knowledge across a wide range of technologies and environments;
