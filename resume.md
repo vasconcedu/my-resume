@@ -1,11 +1,7 @@
 <div style="text-align: center;">
     <p style="font-size: 32px; margin-bottom: 0; padding-bottom: 0;"><b>Eduardo Vasconcelos</b></p>
-    <p style="font-size: 20px;">Application Security Engineer</p>
-    <p float="left">
-        <img src="ecppt.png" height="72">
-        <img src="spf.png" height="72">
-        <img src="ehf.png" height="72">
-    </p>
+    <p style="font-size: 20px; margin-bottom: 0; padding-bottom: 0">MSc in Computer Science</p>
+    <p style="font-size: 20px;">Security Engineer, Technical Instructor</p>
     <p><a href="mailto:eduardo@eduardovasconcelos.com">eduardo@eduardovasconcelos.com</a></p>
     <p>
         <a href="https://github.com/vasconcedu">
@@ -22,9 +18,10 @@
 
 ## Key Highlights
 
-- 8+ years of experience in the software industry with emphasis on Application Security;
-- Software Engineering postgraduate researcher awarded for national-level excellence in 2024;
-- Computer Engineering graduate awarded for university-level excellence in 2016;
+- 9+ years of experience in the software industry with emphasis on Security Engineering;
+- Experience in teaching programming at the technical level;
+- MSc in Computer Science awarded for national-level excellence in Software Engineering research in 2024;
+- Computer Engineer awarded for excellence in the undergraduate thesis in 2016;
 - Creative and fast learner with a proven ability to leverage and apply knowledge across a wide range of technologies and environments;
 - Proficient in three languages: Portuguese (native), English <span style="background-color: orangered; color: white; border-radius: 16px; padding: 4px;"><small>IELTS: C1</small></span>, and French <span style="background-color: navy; color: white; border-radius: 16px; padding: 4px;"><small>TCF: B2-C1</small></span>.
 
@@ -32,24 +29,32 @@
 
 | Level        | Application Security | Complementary |
 |--------------|----------------------|---------------|
-| Advanced     | <ul style="list-style-type: none; padding: 0; margin: 0;"><li>Threat Modeling</li><li>Security Engineering</li><li>Penetration Testing</li><li>Vulnerability Assessment</li><li>Security Code Review</li></ul> |<ul style="list-style-type: none; padding: 0; margin: 0;"><li>Research & Development</li></ul> |
+| Advanced     | <ul style="list-style-type: none; padding: 0; margin: 0;"><li>Security Engineering</li><li>Threat Modeling</li><li>Penetration Testing</li><li>Vulnerability Assessment</li><li>Security Code Review</li></ul> |<ul style="list-style-type: none; padding: 0; margin: 0;"><li>Research & Development</li></ul> |
 | Intermediate | <ul style="list-style-type: none; padding: 0; margin: 0;"><li>Security Awareness</li><li>Reverse Engineering</li><li>Cryptography</li></ul> | <ul style="list-style-type: none; padding: 0; margin: 0;"><li>Full Stack Development</li></ul> |
-| Familiar     | <ul style="list-style-type: none; padding: 0; margin: 0;"><li>DevSecOps</li><li>Incident Response</li></ul> | <ul style="list-style-type: none; padding: 0; margin: 0;"><li>Machine Learning</li></ul> |
+| Familiar     | <ul style="list-style-type: none; padding: 0; margin: 0;"><li>DevSecOps</li><li>Incident Response</li></ul> | <ul style="list-style-type: none; padding: 0; margin: 0;"><li>SysAdmin</li></ul> |
 
 ## Tech Stack
 
 - Backend: Django, FastAPI;
 - Frontend: React, Bootstrap;
 - Database: PostgreSQL, SQLite, MongoDB;
-- Other: Android (Java, Kotlin), Android NDK (C/C++), GitLab CI/CD, Docker, AWS.
+- Other: Android (Java, Kotlin), Android NDK (C, C++), GitLab CI/CD, Docker, AWS.
 
 ## Work History
+
+- **Technical Instructor** @ SENAI, Brazil (on-site)<br>
+    May 2025 &mdash; Present
+
+    - Taught Python programming and Microsoft Power BI courses.
 
 - **Master Application Security Architect** @ SiDi, Brazil (remote)<br>
     Aug 2024 &mdash; Present
 
     - Conducted threat modeling, security architecture reviews, and assessments for Android and web applications, including Samsung Wallet and Knox;
-    - Collaborated closely with development teams to integrate security into the Software Development Life Cycle (SDLC) and anticipate vulnerabilities.
+    - Collaborated closely with development teams to integrate security into the Software Development Life Cycle (SDLC) and anticipate vulnerabilities;
+    - Revitalized the company's Security Champions program;
+    - Designed and implemented security solutions, acting as an engineer for both backend and frontend applications;
+    - Provided guidance and mentoring to less experienced peers.
 
 - **Senior Mobile Security Engineer** @ iFood, Brazil (remote)<br>
     Feb 2022 &mdash; Aug 2024 
@@ -87,10 +92,10 @@
 
 
 - **Master's Degree in Computer Science** @ USP, Brazil<br>
-    Feb 2022 &mdash; Present
+    Feb 2022 &mdash; Aug 2025
 
     - Research topic: leveraging mutation testing techniques to inject vulnerabilities into Android apps, providing a novel approach to evaluating mobile security testing procedures;
-    - Received the Distinguished Paper Award at the Brazilian Conference on Software 2024 (CBSOFT'24) for my work, "Mutation Testing to Support the Security Testing of Android Applications.";
+    - Received the Distinguished Paper Award at the Brazilian Conference on Software 2024 (CBSOFT'24) for my work, "Mutation Testing to Support the Security Testing of Android Applications";
     - Served as a teaching assistant for Software Engineering.
 
 - **Postgraduate Diploma in Software Engineering** @ Unicamp, Brazil<br>
